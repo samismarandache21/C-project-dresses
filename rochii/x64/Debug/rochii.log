@@ -1,0 +1,53 @@
+﻿  GUI.cpp
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'GUI.cpp')
+  
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(14,5): error C2065: 'tableView': undeclared identifier
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(14,21): error C2061: syntax error: identifier 'QTableWidget'
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(15,5): error C2065: 'tableView': undeclared identifier
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(17,5): error C2065: 'tableView': undeclared identifier
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(18,24): error C2065: 'tableView': undeclared identifier
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(32,5): error C2065: 'tableView': undeclared identifier
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(35,19): error C2065: 'tableView': undeclared identifier
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(36,9): error C2065: 'tableView': undeclared identifier
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(38,9): error C2065: 'tableView': undeclared identifier
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(38,40): error C2061: syntax error: identifier 'QTableWidgetItem'
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(39,9): error C2065: 'tableView': undeclared identifier
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(39,40): error C2061: syntax error: identifier 'QTableWidgetItem'
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(40,9): error C2065: 'tableView': undeclared identifier
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(40,40): error C2061: syntax error: identifier 'QTableWidgetItem'
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(40,114): error C2601: 'GUI::initConnects': local function definitions are illegal
+  C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(34,39):
+  this line contains a '{' which has not yet been matched
+  
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(78,9): error C2065: 'tableView': undeclared identifier
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(78,40): error C2061: syntax error: identifier 'QTableWidgetItem'
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(79,9): error C2065: 'QTableWidgetItem': undeclared identifier
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(79,27): error C2065: 'availabilityItem': undeclared identifier
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(79,50): error C2061: syntax error: identifier 'QTableWidgetItem'
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(80,9): error C2065: 'tableView': undeclared identifier
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(80,36): error C2065: 'availabilityItem': undeclared identifier
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(83,32): error C2662: 'bool Domain::get_disponibilitate(void)': cannot convert 'this' pointer from 'const Domain' to 'Domain &'
+  C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(83,26):
+  Conversion loses qualifiers
+  C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\Domain.h(22,7):
+  see declaration of 'Domain::get_disponibilitate'
+  C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(83,32):
+  while trying to match the argument list '()'
+  
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(84,33): error C2065: 'tableView': undeclared identifier
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(85,13): error C2065: 'tableView': undeclared identifier
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(42,38): error C2065: 'tableView': undeclared identifier
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(43,21): error C3536: 'selectedItems': cannot be used before it is initialized
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(43,45): error C2065: 'tableView': undeclared identifier
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(47,46): error C2109: subscript requires array or pointer type
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(48,21): error C2065: 'QTableWidgetItem': undeclared identifier
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(48,39): error C2065: 'availabilityItem': undeclared identifier
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(48,58): error C2065: 'tableView': undeclared identifier
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(49,25): error C2065: 'availabilityItem': undeclared identifier
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(53,34): error C2065: 'tableView': undeclared identifier
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(54,49): error C2065: 'tableView': undeclared identifier
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(55,29): error C2065: 'tableView': undeclared identifier
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(57,25): error C2065: 'availabilityItem': undeclared identifier
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(59,25): error C2065: 'tableView': undeclared identifier
+C:\Users\marco\Desktop\OOP\simulare_rochii\rochii\GUI.cpp(60,25): error C2065: 'tableView': undeclared identifier
