@@ -42,19 +42,6 @@ Technology	Purpose
 📜 Rochii.txt → 📄 Stores dress data
 📜 rochii.ui → 🎨 Qt Designer file for UI layout
 
-🔧 How to Run the Project
-1️⃣ Clone the Repository
-bash
-Copy
-Edit
-git clone https://github.com/samismarandache21/C-project-dresses.git
-cd C-project-dresses
-2️⃣ Set Up Qt
-Make sure you have Qt Creator & Qt Framework installed.
-
-3️⃣ Open & Build the Project
-Open rochii.sln in Qt Creator or any compatible IDE.
-Click Run to launch the application.
 🌟 Why Should Employers Care?
 🚀 Demonstrates C++ & OOP Mastery – Follows best practices in software design
 🚀 Hands-on GUI Development – Experience with Qt Framework and event-driven programming
@@ -63,10 +50,6 @@ Click Run to launch the application.
 
 🔍 Looking for a C++ Developer with GUI, OOP, and data handling expertise?
 This project is a testament to my technical skills and ability to build user-friendly applications. 🎯
-
-🤝 Contributions
-💡 Fork this repo, make your changes, and submit a pull request!
-💬 Feel free to open an issue for suggestions or improvements!
 
 📜 License
 This project is open-source – feel free to use, modify, and enhance it!
